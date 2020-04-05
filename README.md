@@ -10,3 +10,7 @@ Yasmin Sekar Arum
 Oktavianus Irvan Sitanggang
 Odelia
 Achmad Fawaz Ferdiansyah - 13218075
+
+Untuk memasukkan dan melihat isi kodingan, ada di branch "Kodingan"
+
+Semangat kawan-kawan!
