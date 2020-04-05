@@ -2,10 +2,9 @@
 
 Repository untuk Tugas Besar Praktikum Pemecahan Masalah dalam C
 
-Rombongan C
-Kelompok 4
+#Rombongan C - Kelompok 4
 
-Anggota Kelompok :
+#Anggota Kelompok :
 
 Yasmin Sekar Arum
 
