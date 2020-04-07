@@ -6,7 +6,7 @@ Rombongan C
 Kelompok 4
 
 Anggota Kelompok :
-Yasmin Sekar Arum
-Oktavianus Irvan Sitanggang
-Odelia
-Achmad Fawaz Ferdiansyah - 13218075
+-Yasmin Sekar Arum - 13218063
+-Oktavianus Irvan Sitanggang
+-Odelia
+-Achmad Fawaz Ferdiansyah - 13218075
