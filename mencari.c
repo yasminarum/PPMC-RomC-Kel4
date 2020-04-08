@@ -2,7 +2,7 @@
 * MODUL 8 – TUGAS BESAR  
 * Kelompok   : 4  
 * Hari dan Tanggal : Rabu, 8 April 2020
-* Asisten (NIM)  : Pradipta P. N. (13213034)  
+* Asisten (NIM)  : Hamdani Fadhli (13217058) 
 * Nama File   : mencari.c
 * Deskripsi   : IMplementais Alokasi araay untuk memncari kata sesuai kata inputan random di awal, dan mencari valuenya  */ 
 #define MAX_PANJANG_KATA 100
